@@ -1,0 +1,54 @@
+h2 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+}
+
+tr img {
+  width: 50px;
+  height: 40px;
+}
+
+.wall {
+  background-color: brown;
+}
+
+.zero {
+  background-color: rgb(93, 189, 93);
+}
+
+.one {
+  background-color: rgb(93, 189, 93);
+}
+
+.two {
+  background-color: yellow;
+}
+
+.three {
+  background-color: aquamarine;
+}
+
+.four {
+  background-color: aquamarine;
+}
+
+.five {
+  background-color: yellow;
+}
+
+#Explanation {
+  text-align: center;
+}
+
+#message {
+  text-align: center;
+}
