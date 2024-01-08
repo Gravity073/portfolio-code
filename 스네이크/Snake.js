@@ -161,7 +161,7 @@ function gameOver() {
 
 function replay() {
 
-  location.href = "demo02.html"
+  location.href = "Snake.html"
   // let $container = document.querySelector("#container");
   // if($container.innerHTML!==""){
   //   $container.innerHTML = "";
